@@ -6,9 +6,9 @@ This project focuses on leveraging the power of Convolutional Neural Networks (C
 
 Project Overview
 
-The task involved constructing and training a 2D CNN model, modifying existing architectures like Resnet-18 or Resnet-50. The project was structured into several key phases:
+The task involved constructing and training a 2D CNN model, modifying existing architectures (Resnet-50). The project was structured into several key phases:
 
-CNN Construction: Modified Resnet-18 or Resnet-50 for binary classification.
+CNN Construction: Modified Resnet-50 for binary classification.
 Training from Scratch: The CNN was trained from scratch to understand its baseline performance.
 Training with Transfer Learning: Employed transfer learning to enhance the model's performance and compared it with the model trained from scratch.
 Model Visualization: Utilized techniques like GradCAM and EigenCAM to visualize and interpret the models.
@@ -17,7 +17,7 @@ Throughout the project, three datasets were used: training, validation, and test
 Technical Summary
 
 Deep Learning Framework: Implemented using PyTorch.
-Model Architecture: Adaptation of Resnet-18 or Resnet-50 for binary classification.
+Model Architecture: Adaptation of Resnet-50 for binary classification.
 Training Approach: Both from scratch and using transfer learning.
 Evaluation Metrics: Focus on achieving over 90% accuracy on the test set.
 Visualization Techniques: GradCAM and EigenCAM for model interpretation.
