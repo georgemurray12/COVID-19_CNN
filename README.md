@@ -21,8 +21,8 @@ Model Architecture: Adaptation of Resnet-18 or Resnet-50 for binary classificati
 Training Approach: Both from scratch and using transfer learning.
 Evaluation Metrics: Focus on achieving over 90% accuracy on the test set.
 Visualization Techniques: GradCAM and EigenCAM for model interpretation.
+
 Conclusion
 
 This project highlights the effectiveness of transfer learning in enhancing the performance of deep learning models, particularly in medical image analysis for COVID-19 diagnosis. The comparative analysis between the models trained from scratch and with transfer learning provides valuable insights into the benefits of transfer learning in real-world applications.
 
-Please feel free to modify or add any additional details specific to your implementation or results that you observed during the project. ​
